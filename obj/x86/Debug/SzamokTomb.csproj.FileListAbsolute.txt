@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\SzamokTomb\bin\Debug\SzamokTomb.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\SzamokTomb\bin\Debug\SzamokTomb.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\SzamokTomb\obj\x86\Debug\SzamokTomb.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\SzamokTomb\obj\x86\Debug\SzamokTomb.pdb
